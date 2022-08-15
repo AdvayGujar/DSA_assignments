@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	int arr[10],i,largest=0;
+	int arr[20],i,largest=0;
 
 	printf("\nEnter the elements of the array.\n");
 	for(i=0;i<10;i++)
